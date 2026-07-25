@@ -1,0 +1,7 @@
+theme: minima
+source: .
+url: wagermn.github.io
+baseurl: /calculus8
+timezone: Asia/Shanghai
+kramdown:
+  math_engine: mathjax
